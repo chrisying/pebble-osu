@@ -1,6 +1,6 @@
 pebblemotion
 ============
 
-Pebble accelerometer data visualization.
+Wannabe osu game for Pebble.
 
 -Chris Ying 2014
