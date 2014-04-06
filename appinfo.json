@@ -1,0 +1,17 @@
+{
+  "uuid": "1963495a-935f-412a-b537-7ed882576f1b",
+  "shortName": "Motion",
+  "longName": "Motion",
+  "companyName": "Chris Ying",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
